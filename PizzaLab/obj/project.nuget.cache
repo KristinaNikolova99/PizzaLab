@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UldjXeFoL6BHYUYc712tL/Tfken2x5zJs1E1gxv7rxy99NlmWzbgM6n7RL3LLKb65A8NC1jo9/QZvmo2SfImkQ==",
+  "success": true,
+  "projectFilePath": "C:\\PizzaLab\\PizzaLab\\PizzaLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iniko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

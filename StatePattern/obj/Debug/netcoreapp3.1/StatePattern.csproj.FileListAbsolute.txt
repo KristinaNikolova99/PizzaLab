@@ -1,0 +1,4 @@
+C:\Users\sayby\source\repos\PizzaLab\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csprojAssemblyReference.cache
+C:\Users\sayby\source\repos\PizzaLab\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfoInputs.cache
+C:\Users\sayby\source\repos\PizzaLab\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfo.cs
+C:\Users\sayby\source\repos\PizzaLab\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csproj.CoreCompileInputs.cache

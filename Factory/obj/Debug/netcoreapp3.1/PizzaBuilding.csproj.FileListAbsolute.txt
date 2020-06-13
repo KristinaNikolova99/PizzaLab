@@ -1,0 +1,13 @@
+C:\Users\sayby\source\repos\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.csprojAssemblyReference.cache
+C:\Users\sayby\source\repos\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.AssemblyInfoInputs.cache
+C:\Users\sayby\source\repos\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.AssemblyInfo.cs
+C:\Users\sayby\source\repos\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.csproj.CoreCompileInputs.cache
+C:\PizzaLab\Factory\bin\Debug\netcoreapp3.1\PizzaBuilding.deps.json
+C:\PizzaLab\Factory\bin\Debug\netcoreapp3.1\PizzaBuilding.dll
+C:\PizzaLab\Factory\bin\Debug\netcoreapp3.1\PizzaBuilding.pdb
+C:\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.csprojAssemblyReference.cache
+C:\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.AssemblyInfoInputs.cache
+C:\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.AssemblyInfo.cs
+C:\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.csproj.CoreCompileInputs.cache
+C:\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.dll
+C:\PizzaLab\Factory\obj\Debug\netcoreapp3.1\PizzaBuilding.pdb
