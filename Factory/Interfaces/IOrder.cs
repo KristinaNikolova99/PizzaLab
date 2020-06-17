@@ -8,15 +8,15 @@ namespace PizzaBuilding.Interfaces
 {
     public interface IOrder
     {
-        string GetItemDetails(int productID);
+        int GetItemCalories(int toppingID);
+        string GetItemDetails(int toppingID);
         bool CheckItemAvailability(string product);
-        bool LockItemInStock(int productID);
-        string AddItemToCart(Topping topping);
-        string DiscardItemFromCart(int id);
-        double GetCartPrice(int cartID);
-        int CheckProduct(int productID);
-        int PlaceOrder(int cartID, int userID);
+        string AddToppingToOrder(Topping topping);
+        string AddPizzaToOrder(Pizza pizza);
+        string DiscardToppingFromOrder(int id);
+        int GetOrderPrice(int cartID);
+        int CheckTopping(int productID);
 
-        void ApplyTax(int cartID, double taxPercent);
+        int PlaceOrderDetails(int balance, int total);
     }
 }

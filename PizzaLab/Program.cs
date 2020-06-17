@@ -9,6 +9,14 @@ namespace PizzaLab
     {
         static void Main(string[] args)
         {
+            Implem imp = new Implem();
+            imp.SelectPizza();
+            if (imp.through == true || imp.through2 == true)
+            {
+                imp.PlaceOrder();
+            }
+            
+
         }
     }
 }

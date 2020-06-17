@@ -10,7 +10,6 @@ namespace Factory.Enum
         Pepperoni,
         QuattroFormaggio,
         RunningChicken,
-        Veggie
- 
+        Veggie,
     }
 }

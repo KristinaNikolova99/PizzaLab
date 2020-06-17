@@ -17,7 +17,6 @@ namespace PizzaBuilding.Models
             this.ToppingID = id;
             this.Cost = cost;
             this.ToppingTypeSet = type;
-
         }
     }
 }
